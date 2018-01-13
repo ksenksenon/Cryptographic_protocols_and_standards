@@ -1,0 +1,3 @@
+http://vsokovikov.narod.ru/New_MSDN_API/Menage_files/str_win32_find_data.htm
+http://www.cyberforum.ru/cpp-beginners/thread284051.html
+https://ru.stackoverflow.com/questions/265627/ќцените-реализацию-хеш-таблицы
