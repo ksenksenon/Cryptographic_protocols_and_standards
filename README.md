@@ -1,1 +1,1 @@
-Laboratory work on the discipline "Cryptographic Protocols and Standards"
+Laboratory works on the discipline "Cryptographic Protocols and Standards"
